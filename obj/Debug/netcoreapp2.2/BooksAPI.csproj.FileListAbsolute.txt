@@ -1,0 +1,13 @@
+C:\Users\hp\Documents\Visual Studio 2019\Projects\BooksAPI\bin\Debug\netcoreapp2.2\BooksAPI.deps.json
+C:\Users\hp\Documents\Visual Studio 2019\Projects\BooksAPI\bin\Debug\netcoreapp2.2\BooksAPI.runtimeconfig.json
+C:\Users\hp\Documents\Visual Studio 2019\Projects\BooksAPI\bin\Debug\netcoreapp2.2\BooksAPI.runtimeconfig.dev.json
+C:\Users\hp\Documents\Visual Studio 2019\Projects\BooksAPI\bin\Debug\netcoreapp2.2\BooksAPI.dll
+C:\Users\hp\Documents\Visual Studio 2019\Projects\BooksAPI\bin\Debug\netcoreapp2.2\BooksAPI.pdb
+C:\Users\hp\Documents\Visual Studio 2019\Projects\BooksAPI\obj\Debug\netcoreapp2.2\BooksAPI.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Visual Studio 2019\Projects\BooksAPI\obj\Debug\netcoreapp2.2\BooksAPI.RazorAssemblyInfo.cache
+C:\Users\hp\Documents\Visual Studio 2019\Projects\BooksAPI\obj\Debug\netcoreapp2.2\BooksAPI.RazorAssemblyInfo.cs
+C:\Users\hp\Documents\Visual Studio 2019\Projects\BooksAPI\obj\Debug\netcoreapp2.2\BooksAPI.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\Visual Studio 2019\Projects\BooksAPI\obj\Debug\netcoreapp2.2\BooksAPI.AssemblyInfo.cs
+C:\Users\hp\Documents\Visual Studio 2019\Projects\BooksAPI\obj\Debug\netcoreapp2.2\BooksAPI.RazorTargetAssemblyInfo.cache
+C:\Users\hp\Documents\Visual Studio 2019\Projects\BooksAPI\obj\Debug\netcoreapp2.2\BooksAPI.dll
+C:\Users\hp\Documents\Visual Studio 2019\Projects\BooksAPI\obj\Debug\netcoreapp2.2\BooksAPI.pdb
